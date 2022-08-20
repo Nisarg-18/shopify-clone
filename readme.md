@@ -11,7 +11,7 @@ A shopify home page clone made using HTML and Tailwind CSS
 ## Time Taken for Completion
 - 5 hours
 
-<!-- ### Checkout the Project here : [portfoliodeveloper](https://portfoliodeveloper.netlify.app/) -->
+### Checkout the Project here : [shopify](https://re-shopify.netlify.app/)
 
 ## Output
 
